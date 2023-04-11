@@ -44,3 +44,15 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## 该模版使用到的技术
+#### React + TypeScript
+1. 路由表
+2. setupProxy.js 请求代理
+3. axios 数据请求方法
+4. request 数据去请求封装
+5. 请求api 封装
+6. utils 公共方法库
+7. assets 静态资源
+8. mocks 模拟数据
+9. react-redux ,reduxjs/toolkit (状态管理)
